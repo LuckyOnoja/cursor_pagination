@@ -1,0 +1,7 @@
+[
+  { "id": "item_101", "name": "Wireless Mouse", "price": 25.99 },
+  { "id": "item_102", "name": "Mechanical Keyboard", "price": 89.99 },
+  { "id": "item_103", "name": "HD Monitor", "price": 199.99 },
+  { "id": "item_104", "name": "USB-C Hub", "price": 35.50 },
+  { "id": "item_105", "name": "Ergonomic Chair", "price": 249.99 }
+]
